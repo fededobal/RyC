@@ -20,8 +20,6 @@ Cada práctica está resuelta en Markdown. Las prácticas 1 a 6 tienen además u
 
 ## [Parciales](2026/Parciales/)
 
-Parciales resueltos, uno por archivo, agrupados por instancia y ordenados del más reciente al más antiguo. Se convirtieron a Markdown desde [Parciales.pdf](2026/Parciales/Parciales.pdf), que se conserva como original. Las imágenes (topologías, capturas y diagramas) están en [img/](2026/Parciales/img/), en una carpeta por parcial.
-
 ### 1ra fecha
 
 | Fecha | Parcial |
