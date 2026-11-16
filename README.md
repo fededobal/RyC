@@ -1,6 +1,6 @@
 # Redes y Comunicaciones
 
-Prácticas y parciales resueltos de Redes y Comunicaciones (cursada 2026).
+Prácticas y parciales resueltos de Redes y Comunicaciones (cursada 2026), en Markdown.
 
 ## [Prácticas](2026/Práctica/)
 
@@ -20,4 +20,28 @@ Cada práctica está resuelta en Markdown. Las prácticas 1 a 6 tienen además u
 
 ## [Parciales](2026/Parciales/)
 
-- [Parciales.pdf](2026/Parciales/Parciales.pdf): recopilación de parciales resueltos de distintas fechas (entre diciembre de 2024 y diciembre de 2025).
+Parciales resueltos, uno por archivo, agrupados por instancia y ordenados del más reciente al más antiguo. Se convirtieron a Markdown desde [Parciales.pdf](2026/Parciales/Parciales.pdf), que se conserva como original. Las imágenes (topologías, capturas y diagramas) están en [img/](2026/Parciales/img/), en una carpeta por parcial.
+
+### 1ra fecha
+
+| Fecha | Parcial |
+| --- | --- |
+| 23/06/2025 | [2025-06-23 - 1ra fecha.md](2026/Parciales/2025-06-23%20-%201ra%20fecha.md) |
+
+### 2da fecha
+
+| Fecha | Parcial |
+| --- | --- |
+| 16/12/2025 | [2025-12-16 - 2da fecha.md](2026/Parciales/2025-12-16%20-%202da%20fecha.md) |
+| 07/07/2025 | [2025-07-07 - 2da fecha.md](2026/Parciales/2025-07-07%20-%202da%20fecha.md) |
+| 17/12/2024 | [2024-12-17 - 2da fecha.md](2026/Parciales/2024-12-17%20-%202da%20fecha.md) |
+| 03/07/2024 | [2024-07-03 - 2da fecha.md](2026/Parciales/2024-07-03%20-%202da%20fecha.md) |
+| 05/07/2022 | [2022-07-05 - 2da fecha.md](2026/Parciales/2022-07-05%20-%202da%20fecha.md) |
+| 2019 (sin fecha exacta) | [2019 - 2da fecha.md](2026/Parciales/2019%20-%202da%20fecha.md) |
+
+### 3ra fecha
+
+| Fecha | Parcial |
+| --- | --- |
+| 04/08/2025 | [2025-08-04 - 3ra fecha.md](2026/Parciales/2025-08-04%20-%203ra%20fecha.md) |
+| 07/02/2024 | [2024-02-07 - 3ra fecha.md](2026/Parciales/2024-02-07%20-%203ra%20fecha.md) |
